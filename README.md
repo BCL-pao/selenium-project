@@ -1,10 +1,3 @@
-# Selenium Project: Automating Web Page Interactions  
-
-## Project Overview  
-This project demonstrates how to use Selenium WebDriver to automate fundamental web page interactions such as opening pages, maximizing windows, verifying URLs, and closing browsers. The goal is to familiarize QA engineers with essential Selenium methods to streamline functional testing.
-
----
-
 # Selenium Project: Automating Web Form Testing  
 
 ## Project Overview  
